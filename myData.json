@@ -1,0 +1,38 @@
+[{
+    "productName": "PetSutra Himalaya Adult Dry Dog Food Meat and Rice 10kg",
+    "productImage": [
+        "PetSutra_img1",
+        "PetSutra_img2",
+        "PetSutra_img3",
+        "PetSutra_img4",
+        "PetSutra_img5",
+        "PetSutra_img6",
+        "PetSutra_img7"
+    ],
+    "brandName": "Himalaya",
+    "price": 1449,
+    "size": [
+        "250g",
+        "2kg",
+        "6kg",
+        "12kg"
+    ],
+    "no_of_items": 20,
+    "rating": 4.1,
+    "review": [
+        {
+            "customerName": "Akash",
+            "customerRating": 5,
+            "title": "My dog finishes it very fast",
+            "discription": "My dog really likes it and finishes it in less than a minute. I feed him twice a day and he doesn't get bored of it"
+        },
+        {
+            "customerName": "Harpreet Kaur",
+            "customerRating": 4.2,
+            "title": "Clean bowl every time",
+            "discription": "My doggo just loves it. She has always been a pedigree lover. This chicken n vegetable flavor has made her even skip the home food. She prefers having pedigree."
+        }
+    ],
+    "breedType": "All Breed",
+    "vegNonVeg": "veg"
+}]
